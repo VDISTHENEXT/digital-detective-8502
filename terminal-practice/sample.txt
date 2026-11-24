@@ -1,0 +1,2 @@
+First line: Terminal practice file
+Second line: Appending text without overwriting
