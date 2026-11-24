@@ -17,3 +17,9 @@ An independent learning assignment exploring computer fundamentals, Terminal usa
 ## Workflow Note
 
 Each mission is completed in order, documented in its own `README.md`, and committed and pushed separately to GitHub[cite: 11, 13, 14].
+
+## My Learning
+
+- **Operating System Core:** Learned how the OS coordinates hardware resources, manages processes with unique PIDs, and enforces file permissions.
+- **Terminal Efficiency:** Practised CLI navigation, safe file operations, using command flags (`-l`, `-a`, `-h`), and chaining tools using pipes (`|`).
+- **Data Representation:** Explored how computers represent numbers in binary and hexadecimal, converted numbers manually and in Python, and understood character encoding (ASCII and UTF-8).
